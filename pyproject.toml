@@ -1,0 +1,10 @@
+[project]
+name = "smoosh"
+version = "0.1.0"
+description = "Organise and serve your adult content."
+readme = "README.md"
+authors = [
+    { name = "Smoosh Developer", email = "smooshdev@smoosh.ing" }
+]
+requires-python = ">=3.12.4"
+dependencies = []
